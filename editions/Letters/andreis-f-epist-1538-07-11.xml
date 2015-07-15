@@ -109,20 +109,20 @@
         <body>
             <div type="prosa-epistula" corresp="#andreisvrancic15380711">
                 <pb/>
-                <opener n="1">Franciscus Andronicus Tranquillus Antonio Werancio S.</opener>
+                <opener n="1"><seg n="1">Franciscus Andronicus Tranquillus Antonio Werancio S.</seg></opener>
 
                 <note>(1538. jul. 11; Szalay 6, 11)</note>
 
-                <p n="2">Scis meas necessitates et tu jam in amplissima fortuna es: cuppas et alias res,
-                    quas <placeName>Budae</placeName> accepisti, vel earum pretium mittas mihi.</p>
-                <p n="3">Quod quidem facies si bonus
-                    vir es, ut hactenus fuisti, et memineris varias vices esse fortunae.</p> <p n="4">Me tibi
-                    commendo et omnia bona tibi opto.</p>
-                <closer n="5">
-               <salute>Vale.</salute>
+                <p n="2"><seg n="1">Scis meas necessitates et tu jam in amplissima fortuna es: cuppas et alias res,
+                    quas <placeName>Budae</placeName> accepisti, vel earum pretium mittas mihi.</seg>
+                <seg n="2">Quod quidem facies si bonus
+                    vir es, ut hactenus fuisti, et memineris varias vices esse fortunae.</seg> <seg n="3">Me tibi
+                    commendo et omnia bona tibi opto.</seg></p>
+                <closer n="3">
+               <salute><seg n="1">Vale.</seg></salute>
                     <dateline>
-                  <placeName>Kesmarkii</placeName>
-                        <date when="1538-07-11">V. id. Julii MDXXXVIII.</date>
+                  <placeName><seg n="2">Kesmarkii</seg></placeName>
+                        <date when="1538-07-11"><seg n="3">V. id. Julii MDXXXVIII.</seg></date>
                </dateline>
             </closer>
             </div>

@@ -107,41 +107,41 @@
     <text>
         <body>
             <div type="prosa-epistula" xml:id="fta-av02" corresp="#andreisvrancic15381003">
-                <opener n="1">Franciscus Andronicus Tranquillus Antonio Wrancio S.</opener>
+                <opener n="1"><seg n="1">Franciscus Andronicus Tranquillus Antonio Wrancio S.</seg></opener>
 
                 <note>(3. Oct. 1538.; Szalay 6, 19)</note>
 
-                <p n="2">Binas tuas litteras hodie accepi, alteras kalendis Augusti, alteras quinto nonas
-                    Octobris datas.</p> <p n="3">Prioribus vehementer fuissem offensus si jam ad injurias non
-                    obduruissem.</p> <p n="4">His enim amarulenter me proscindis praeter naturam et consuetudinem
+                <p n="2"> <seg n="1">Binas tuas litteras hodie accepi, alteras kalendis Augusti, alteras quinto nonas
+                    Octobris datas.</seg> <seg n="2">Prioribus vehementer fuissem offensus si jam ad injurias non
+                    obduruissem.</seg> <seg n="3">His enim amarulenter me proscindis praeter naturam et consuetudinem
                     tuam ac etiam praeter meritum meum, nisi fortasse veritas coepit apud vos
-                    molesta esse.</p> <p n="5">Mirum non debet videri si in hac fortuna repetii ab amico quod
+                    molesta esse.</seg> <seg n="4">Mirum non debet videri si in hac fortuna repetii ab amico quod
                     meum putavi atque is non tam idcirco excandescere debuit quam amicum vel de suo
-                    juvare.</p> <p n="6">De regia majestate nihil scribam.</p> <p n="7">Vereor enim ne optimis etiam laedatur.</p>
-                    <p n="8">Alterae meliores fuerunt in quibus cognovi veterem tuam benevolentiam.</p> <p n="9">Quod
+                    juvare.</seg> <seg n="5">De regia majestate nihil scribam.</seg> <seg n="6">Vereor enim ne optimis etiam laedatur.</seg>
+                    <seg n="7">Alterae meliores fuerunt in quibus cognovi veterem tuam benevolentiam.</seg> <seg n="8">Quod
                     hortaris ut objecta diluam modeste, nihil adhuc intelligo quid objiciatur mihi,
-                    nisi quod aliena invidia deflagrarim.</p> <p n="10">De novicio et tyrone quod scribis, habeo
+                    nisi quod aliena invidia deflagrarim.</seg> <seg n="9">De novicio et tyrone quod scribis, habeo
                     tibi gratias, sed existimo quod et amicis et malevolis constat me ita cognitum
                     esse ac versatum apud exteros his annis proximis ut non sit mihi necesse
                     tyrocinium induere, neque est cur veniam petam quandoquidem culpa careo, nisi
                         <pb n="33"/> quod usu venit ut ille videatur peccasse qui passus est
-                    injuriam.</p> <p n="11">Ab excidione rerum mearum scripsi aliquot dialogos quorum nonnulli
+                    injuriam.</seg> <seg n="10">Ab excidione rerum mearum scripsi aliquot dialogos quorum nonnulli
                     exierunt in vulgus, nunc etiam unum habeo in manibus; nulla tamen in his mentio
-                    fit cujusquam neque regis neque privati; misissem hunc tibi si esset emendatior.</p>
-                    <p n="12">Litteras, quas scripsi ad reverendissimum dominum Transsylvanum, avunculum tuum,
+                    fit cujusquam neque regis neque privati; misissem hunc tibi si esset emendatior.</seg>
+                    <seg n="11">Litteras, quas scripsi ad reverendissimum dominum Transsylvanum, avunculum tuum,
                     si recte legantur, nescio cur possint quemquam offendere quod in his et
-                    modestiam et candorem et gratum animum meum facile est agnoscere.</p> <p n="13">Sed ita mecum
-                    inpraesentiarum agitur ut omnia mea dicta et fata in deterius interpretentur.</p>
-                    <p n="14">Deus me his exercet malis quae arbitror esse remedia si aequo animo ferantur.</p>
-                    <p n="15">Scias me adhuc esse captivum, alioqui non deesset mihi receptus rerum mearum.</p>
-                    <p n="16">Amo tamen ac plurimi facio consilium tuum quod ex intimo proficiscitur amore.</p>
-                    <p n="17">Quaecunque autem fortuna mihi acciderit, eam voluntate Dei concedi mihi non
-                    dubito.</p> <p n="18">Itaque nec prosperis exultandum nec adversis dejici debere judico.</p> <p n="19">Omnia
-                    nempe humana fragilia sunt et caduca mutationibusque obnoxia.</p>
-                <closer n="20">Rogo ut integram benevolentiam erga me serves et bene vale ac fortunam
-                    reverenter habe. Haec pluribus verbis debui rescribere nisi temporis angustia
-                    fuissem prohibitus. In <placeName>Naghfalw</placeName>
-                    <date when="1538-10-03">V. non Octobris MDXXXVIII.</date>
+                    modestiam et candorem et gratum animum meum facile est agnoscere.</seg> <seg n="12">Sed ita mecum
+                    inpraesentiarum agitur ut omnia mea dicta et fata in deterius interpretentur.</seg>
+                    <seg n="13">Deus me his exercet malis quae arbitror esse remedia si aequo animo ferantur.</seg>
+                    <seg n="14">Scias me adhuc esse captivum, alioqui non deesset mihi receptus rerum mearum.</seg>
+                    <seg n="15">Amo tamen ac plurimi facio consilium tuum quod ex intimo proficiscitur amore.</seg>
+                    <seg n="16">Quaecunque autem fortuna mihi acciderit, eam voluntate Dei concedi mihi non
+                    dubito.</seg> <seg n="17">Itaque nec prosperis exultandum nec adversis dejici debere judico.</seg> <seg n="18">Omnia
+                    nempe humana fragilia sunt et caduca mutationibusque obnoxia.</seg></p>
+                <closer n="3"><seg n="1">Rogo ut integram benevolentiam erga me serves et bene vale ac fortunam
+                    reverenter habe.</seg> <seg n="2">Haec pluribus verbis debui rescribere nisi temporis angustia
+                    fuissem prohibitus.</seg> <seg n="3">In <placeName>Naghfalw</placeName>
+                    <date when="1538-10-03">V. non Octobris MDXXXVIII.</date></seg>
             </closer>
             </div>
         </body>
